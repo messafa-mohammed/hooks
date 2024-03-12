@@ -1,9 +1,9 @@
-import ColorPicker from './ColorPicker'
+import Car from "./Car"
 function App() {
 
   return (
     <>
-      <ColorPicker/>
+      <Car/>
     </>
   )
 }
