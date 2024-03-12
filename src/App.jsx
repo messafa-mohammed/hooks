@@ -1,9 +1,10 @@
-import Car from "./Car"
+import CarsList from "./CarsList"
+import List from "./List"
 function App() {
 
   return (
     <>
-      <Car/>
+      <CarsList/>
     </>
   )
 }
