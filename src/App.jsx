@@ -1,9 +1,9 @@
-import ScreenDimensions from "./ScreenDimensions"
+import ComponentA from "./ComponentA"
 function App() {
 
   return (
     <>
-      <ScreenDimensions/>
+      <ComponentA/>
     </>
   )
 }
