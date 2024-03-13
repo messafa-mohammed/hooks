@@ -1,9 +1,9 @@
-import ComponentA from "./ComponentA"
+import Reference from './Reference'
 function App() {
 
   return (
     <>
-      <ComponentA/>
+      <Reference/>
     </>
   )
 }
