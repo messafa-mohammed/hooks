@@ -1,10 +1,9 @@
-import CarsList from "./CarsList"
-import List from "./List"
+import ScreenDimensions from "./ScreenDimensions"
 function App() {
 
   return (
     <>
-      <CarsList/>
+      <ScreenDimensions/>
     </>
   )
 }
